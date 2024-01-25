@@ -1,0 +1,6 @@
+[sender](time: 0.00) -> send pta2WW5KyHBNT0mC518kzzTy1fZSmswDkQbiB97P on seqno 0
+[sender](time: 0.00) -> send pta2WW5KyHBNT0mC518kzzTy1fZSmswDkQbiB97P on seqno 1
+[receiver](time: 20.00) -> send ack 1
+[sender](time: 100.00) -> timeout
+[sender](time: 100.00) -> send pta2WW5KyHBNT0mC518kzzTy1fZSmswDkQbiB97P on seqno 1
+[receiver](time: 120.00) -> send ack 2

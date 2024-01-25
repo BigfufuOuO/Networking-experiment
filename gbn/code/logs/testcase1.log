@@ -1,0 +1,2 @@
+[sender](time: 0.00) -> send hello world! on seqno 0
+[receiver](time: 10.00) -> send ack 1

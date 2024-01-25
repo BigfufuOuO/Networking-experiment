@@ -1,0 +1,46 @@
+[sender](time: 0.00) -> send Now all glory to God, who is able, throu on seqno 0
+[sender](time: 0.00) -> send gh his mighty power at work within us, t on seqno 1
+[sender](time: 0.00) -> send o accomplish infinitely more than we mig on seqno 2
+[sender](time: 0.00) -> send ht ask or think. Glory to him in the chu on seqno 3
+[sender](time: 0.00) -> send rch and in Christ Jesus through all gene on seqno 4
+[sender](time: 0.00) -> send rations forever and ever! Amen. on seqno 5
+[sender](time: 30.00) -> timeout
+[sender](time: 30.00) -> send Now all glory to God, who is able, throu on seqno 0
+[sender](time: 30.00) -> send gh his mighty power at work within us, t on seqno 1
+[sender](time: 30.00) -> send o accomplish infinitely more than we mig on seqno 2
+[sender](time: 30.00) -> send ht ask or think. Glory to him in the chu on seqno 3
+[sender](time: 30.00) -> send rch and in Christ Jesus through all gene on seqno 4
+[sender](time: 30.00) -> send rations forever and ever! Amen. on seqno 5
+[receiver](time: 40.00) -> send ack 1
+[sender](time: 60.00) -> timeout
+[sender](time: 60.00) -> send Now all glory to God, who is able, throu on seqno 0
+[sender](time: 60.00) -> send gh his mighty power at work within us, t on seqno 1
+[sender](time: 60.00) -> send o accomplish infinitely more than we mig on seqno 2
+[sender](time: 60.00) -> send ht ask or think. Glory to him in the chu on seqno 3
+[sender](time: 60.00) -> send rch and in Christ Jesus through all gene on seqno 4
+[sender](time: 60.00) -> send rations forever and ever! Amen. on seqno 5
+[receiver](time: 70.00) -> send ack 2
+[receiver](time: 100.00) -> send ack 3
+[receiver](time: 100.00) -> send ack 4
+[receiver](time: 100.00) -> send ack 4
+[receiver](time: 100.00) -> send ack 4
+[receiver](time: 100.00) -> send ack 4
+[receiver](time: 100.00) -> send ack 4
+[receiver](time: 100.00) -> send ack 4
+[receiver](time: 100.00) -> send ack 5
+[receiver](time: 100.00) -> send ack 5
+[receiver](time: 100.00) -> send ack 5
+[receiver](time: 100.00) -> send ack 5
+[receiver](time: 100.00) -> send ack 5
+[receiver](time: 100.00) -> send ack 6
+[sender](time: 110.00) -> timeout
+[sender](time: 110.00) -> send gh his mighty power at work within us, t on seqno 1
+[sender](time: 110.00) -> send o accomplish infinitely more than we mig on seqno 2
+[sender](time: 110.00) -> send ht ask or think. Glory to him in the chu on seqno 3
+[sender](time: 110.00) -> send rch and in Christ Jesus through all gene on seqno 4
+[sender](time: 110.00) -> send rations forever and ever! Amen. on seqno 5
+[sender](time: 140.00) -> timeout
+[sender](time: 140.00) -> send o accomplish infinitely more than we mig on seqno 2
+[sender](time: 140.00) -> send ht ask or think. Glory to him in the chu on seqno 3
+[sender](time: 140.00) -> send rch and in Christ Jesus through all gene on seqno 4
+[sender](time: 140.00) -> send rations forever and ever! Amen. on seqno 5

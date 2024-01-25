@@ -1,0 +1,4 @@
+[sender](time: 0.00) -> send this is a longer text on seqno 0
+[receiver](time: 20.00) -> send ack 1
+[sender](time: 30.00) -> timeout
+[sender](time: 30.00) -> send this is a longer text on seqno 0
